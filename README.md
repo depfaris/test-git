@@ -2,3 +2,4 @@
 
 Input Nama Masing-Masing
 Dewi ii
+faris
